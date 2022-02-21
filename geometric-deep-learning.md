@@ -24,13 +24,23 @@ Category theory is used to describe **construction** of topologies, see John Bae
 
 - [Theoretical Foundations of Graph Neural Networks](https://www.youtube.com/watch?v=uF53xsT7mjc): 45,613 views • Feb 22, 2021 • Deriving graph neural networks (GNNs) from first principles, motivating their use, and explaining how they have emerged along several related research lines with [geo-deep-slides-petar-v](https://petar-v.com/talks/GNN-Wednesday.pdf).
 
+- [Large-scale Graph Representation Learning](https://www.youtube.com/watch?v=oQL4E1gK3VU): by Jure Leskovec. Traditionally machine learning approaches relied on user-defined heuristics to extract features encoding structural information about a graph. In this talk I will discuss methods that automatically learn to encode graph structure into low-dimensional embeddings, using techniques based on deep learning and nonlinear dimensionality reduction. I will provide a conceptual review of key advancements in this area of representation learning on graphs, including random-walk based algorithms, and graph convolutional networks.
+
+### NYU Deep learning DLSP21
+
 - [NYU Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/): course by Yann LeCun & Alfredo Canziani with [reference material at GitHub](https://github.com/Atcold/NYU-DLSP21). This course concerns the latest techniques in deep learning and representation learning, focusing on supervised and unsupervised deep learning, embedding methods, metric learning, convolutional and recurrent nets, with applications to computer vision, natural language understanding, and speech recognition.
+
+- [Deep Learning I Joan Bruna NYU](https://www.youtube.com/watch?v=ImQ0YHryxfg)
+
+- [Categories: the Mathematics of Connection](http://www.ipam.ucla.edu/abstract/?tid=17436&pcode=MI2022): by John Baez. As we move from the paradigm of modeling one single self-contained system at a time to modeling "open systems" which interact with their - perhaps unmodeled - environment, category theory becomes a useful tool. It gives a mathematical language to describe the interface between an open system and its environment, the process of composing open systems along their interfaces, and how the behavior of a composite system relates to the behaviors of its parts.
 
 ## Advanced material
 
 - [Algebraic topology](https://www.youtube.com/playlist?list=PL8yHsr3EFj52yxQGxQoxwOtjIEtxE2BWx): by Richard Borcherds, [Allen Hatcher's books](https://pi.math.cornell.edu/~hatcher/#ATI) are recommended.
 
 - [Algebraic Topology Introduction](https://www.youtube.com/watch?v=vRsrCNLkSA0): by Peter May along with his book [A Concise Course in Algebraic Topology](https://www.math.uchicago.edu/~may/CONCISE/ConciseRevised.pdf).
+
+- [Institute for Pure & Applied Mathematics Playlists](https://www.youtube.com/c/IPAMUCLA/playlists)
 
 ## Summary of topics
     
@@ -43,7 +53,8 @@ Category theory is used to describe **construction** of topologies, see John Bae
 ## Sequential data
 
 - [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa)
-- 
+- [Fall 2019 Natural Language Processing: Matt Gardner]https://www.youtube.com/watch?v=k7d_Nnv_shw&list=PLTPQEx-31JXjCgihnsrjqqLb7eegju6kr
+
 ### Sequential behavior involves incremental changes.
 
 ### Convolutional filters capture features in images
