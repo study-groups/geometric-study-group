@@ -11,6 +11,15 @@ Algebraic topology uses abstract algebra (study of group transformations) to **c
 
 Category theory is used to describe **construction** of topologies, see John Baez, et. al.
 
+## Videos
+
+- [Your Brain as Math - Part 1 | Infinite Series](https://www.youtube.com/watch?v=M0M3srBoTkY): Algebraic topology applied to measuring large states of the brain to incode information in a delocalized manner.
+
+- [Gunnar Carlsson: "Topological Modeling of Complex Data"](https://www.youtube.com/watch?v=8nUBqawu41k): by Gunnar Carlsson, Stanford University, an AMS-MAA Invited Address at the 2018 Joint Mathematics Meetings.
+- [Topological Data Analysis for Machine Learning I: Algebraic Topology](https://www.youtube.com/watch?v=gVq_xXnwV-4) Part of a lecture at ECML PKDD 2020, the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.
+- 
+- [An introduction to persistent homology](https://www.youtube.com/watch?v=UxEH7WySO60):  The focus of our talk is on persistent homology, which summarizes the changes in topological features across any increasing sequence of spaces. We emphasize sublevelset persistent homology, which provides a topological summary of real-valued functions, in particular energy functions. We also briefly introduce persistent homology applied to point cloud data, perhaps sampled from the low-energy conformations of a chemical system.
+
 ## Introductory info
 
 - [Geometric deep learning: going beyond Euclidean data](https://arxiv.org/pdf/1611.08097.pdf): Michael Bronstein et. al. Geometric deep learning is an umbrella term for emerging techniques attempting to generalize (structured) deep neural models to non-Euclidean domains such as graphs and manifolds. The purpose of this paper is to overview different examples of geometric deep learning problems and present available solutions, key difficulties, applications, and future research directions in this nascent field.
@@ -34,6 +43,10 @@ Category theory is used to describe **construction** of topologies, see John Bae
 
 - [Categories: the Mathematics of Connection](http://www.ipam.ucla.edu/abstract/?tid=17436&pcode=MI2022): by John Baez. As we move from the paradigm of modeling one single self-contained system at a time to modeling "open systems" which interact with their - perhaps unmodeled - environment, category theory becomes a useful tool. It gives a mathematical language to describe the interface between an open system and its environment, the process of composing open systems along their interfaces, and how the behavior of a composite system relates to the behaviors of its parts.
 
+## Code examples
+
+- [graphml-tutorials](https://github.com/mims-harvard/graphml-tutorials): From Machine Learning for Medicine and Science @ Harvard. Graph machine learning provides a powerful toolbox to learn representations from any arbitrary graph structure and use learned representations for a variety of downstream tasks. 
+
 ## Advanced material
 
 - [Algebraic topology](https://www.youtube.com/playlist?list=PL8yHsr3EFj52yxQGxQoxwOtjIEtxE2BWx): by Richard Borcherds, [Allen Hatcher's books](https://pi.math.cornell.edu/~hatcher/#ATI) are recommended.
@@ -54,7 +67,4 @@ Category theory is used to describe **construction** of topologies, see John Bae
 
 - [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa)
 - [Fall 2019 Natural Language Processing: Matt Gardner](https://www.youtube.com/watch?v=k7d_Nnv_shw&list=PLTPQEx-31JXjCgihnsrjqqLb7eegju6kr)
-
-### Sequential behavior involves incremental changes. Convolutional filters capture features in images.
-
 - [Deriving convolution from first principles](https://towardsdatascience.com/deriving-convolution-from-first-principles-4ff124888028)
