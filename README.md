@@ -16,8 +16,8 @@ Category theory is used to describe **construction** of topologies, see John Bae
 - [Your Brain as Math - Part 1 | Infinite Series](https://www.youtube.com/watch?v=M0M3srBoTkY): Algebraic topology applied to measuring large states of the brain to incode information in a delocalized manner.
 
 - [Gunnar Carlsson: "Topological Modeling of Complex Data"](https://www.youtube.com/watch?v=8nUBqawu41k): by Gunnar Carlsson, Stanford University, an AMS-MAA Invited Address at the 2018 Joint Mathematics Meetings.
-- [Topological Data Analysis for Machine Learning I: Algebraic Topology](https://www.youtube.com/watch?v=gVq_xXnwV-4) Part of a lecture at ECML PKDD 2020, the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.
-- 
+- [Topological Data Analysis for Machine Learning I: Algebraic Topology](https://www.youtube.com/watch?v=gVq_xXnwV-4): Part of a lecture at ECML PKDD 2020, the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.
+
 - [An introduction to persistent homology](https://www.youtube.com/watch?v=UxEH7WySO60):  The focus of our talk is on persistent homology, which summarizes the changes in topological features across any increasing sequence of spaces. We emphasize sublevelset persistent homology, which provides a topological summary of real-valued functions, in particular energy functions. We also briefly introduce persistent homology applied to point cloud data, perhaps sampled from the low-energy conformations of a chemical system.
 
 ## Introductory info
