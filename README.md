@@ -1,3 +1,8 @@
+### Todo
+- Review and incorporate Michael Bronstein's article [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f)
+- Incorporate Google Research's [A Gentle Introdcution to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- Incorporate [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/)
+
 
 # Geometric and Topological Data Science
 
