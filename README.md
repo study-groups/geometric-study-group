@@ -1,20 +1,20 @@
 # Geometric and Topological Data Science
 
 
-[Graph theory](https://en.wikipedia.org/wiki/Graph_theory) involves **connections** which captures local structure and information flow of data in a newtwork. See[Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/)
+[Graph theory](https://en.wikipedia.org/wiki/Graph_theory) involves **connections** which captures local structure and information flow of data in a newtwork. See [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/).
 
 
 [Graph Neural Networks](https://distill.pub/2021/gnn-intro/) **enrich** graph networks with machine learning. See  [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) by M. Bronstein.
 
 
-[Category theory](https://math.ucr.edu/home/baez/qg-winter2016/CategoryTheoryNotes.pdf) is used to describe **construction** of topologies, see [John Baez](https://math.ucr.edu/home/baez/categories.html)
+[Category theory](https://math.ucr.edu/home/baez/qg-winter2016/CategoryTheoryNotes.pdf) is used to describe **construction** of topologies, see [John Baez](https://math.ucr.edu/home/baez/categories.html).
 
-[Topology](https://en.wikipedia.org/wiki/Topology) involves **shapes** and captures large, global emergent properties of data. See the work of [Tai Denae Bradley, et. al.](https://www.math3ma.com/research)
+[Topology](https://en.wikipedia.org/wiki/Topology) involves **shapes** and captures large, global emergent properties of data. See the work of [Tai Denae Bradley, et. al.](https://www.math3ma.com/research).
 
 [Homology](https://en.wikipedia.org/wiki/Homology_(mathematics)) **translates** between graph theory and topology, see the work of [Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html) 
-and [Norman Wildberger](https://www.youtube.com/watch?v=ShWdSNJeuOg)
+and [Norman Wildberger](https://www.youtube.com/watch?v=ShWdSNJeuOg).
 
-[Algebraic topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) uses abstract algebra (study of group transformations) to **classify spaces**, see [Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX)
+[Algebraic topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) uses abstract algebra (study of group transformations) to **classify spaces**, see [Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX).
 
 
 ## Videos
