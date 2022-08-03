@@ -1,20 +1,21 @@
-### Todo
-- Review and incorporate Michael Bronstein's article [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f)
-- Incorporate Google Research's [A Gentle Introdcution to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-- Incorporate [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/)
-
-
 # Geometric and Topological Data Science
 
-Graph theory involves **connections** which captures local structure and information flow of data in a newtwork. See the work of Michael Bronstein, et. al.
 
-Topology involves **shapes** and captures large, global emergent properties of data. See the work of Tai Denae Bradley, et. al.
+[Graph theory](https://en.wikipedia.org/wiki/Graph_theory) involves **connections** which captures local structure and information flow of data in a newtwork. See[Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/)
 
-Homology **translates** between graph theory and topology, see the work of Robert Ghrist, et. al.
 
-Algebraic topology uses abstract algebra (study of group transformations) to **classify spaces**, see Richard Borcherds, et. al.
+[Graph Neural Networks](https://distill.pub/2021/gnn-intro/) **enrich** graph networks with machine learning. See  [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) by M. Bronstein.
 
-Category theory is used to describe **construction** of topologies, see John Baez, et. al.
+
+[Category theory](https://math.ucr.edu/home/baez/qg-winter2016/CategoryTheoryNotes.pdf) is used to describe **construction** of topologies, see [John Baez](https://math.ucr.edu/home/baez/categories.html)
+
+[Topology](https://en.wikipedia.org/wiki/Topology) involves **shapes** and captures large, global emergent properties of data. See the work of [Tai Denae Bradley, et. al.](https://www.math3ma.com/research)
+
+[Homology](https://en.wikipedia.org/wiki/Homology_(mathematics)) **translates** between graph theory and topology, see the work of [Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html) 
+and [Norman Wildberger](https://www.youtube.com/watch?v=ShWdSNJeuOg)
+
+[Algebraic topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) uses abstract algebra (study of group transformations) to **classify spaces**, see [Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX)
+
 
 ## Videos
 
@@ -69,7 +70,11 @@ Category theory is used to describe **construction** of topologies, see John Bae
 | Laplacian  | Euler | X |
     
 ## Sequential data
-
 - [Transformers are Graph Neural Networks](https://towardsdatascience.com/transformers-are-graph-neural-networks-bca9f75412aa)
 - [Fall 2019 Natural Language Processing: Matt Gardner](https://www.youtube.com/watch?v=k7d_Nnv_shw&list=PLTPQEx-31JXjCgihnsrjqqLb7eegju6kr)
 - [Deriving convolution from first principles](https://towardsdatascience.com/deriving-convolution-from-first-principles-4ff124888028)
+
+### Todo
+- Review and incorporate Michael Bronstein's article
+- Incorporate Google Research's [A Gentle Introdcution to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+- Incorporate
