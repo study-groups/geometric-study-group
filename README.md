@@ -2,23 +2,20 @@
 
 See my notes on [Linux, Devops, Graph Theory and the Laplacian](https://nodeholder.com/whiteboards/ds-notes-2022.svg).
 
-[Knowledge graphs](https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef) are directed heterogeneous multigraphs  whose node and relation types have domain-specific semantics. See [Vinay Chaudhri](https://www.knowledgegraph.tech/speakers/vinay-chaudhri/).
+- [Knowledge graphs](https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef) are directed heterogeneous multigraphs  whose node and relation types have domain-specific semantics. See [Vinay Chaudhri](https://www.knowledgegraph.tech/speakers/vinay-chaudhri/).
  
-[Graph theory](https://en.wikipedia.org/wiki/Graph_theory) involves **connections** which captures local structure and information flow of data in a newtwork. See [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/).
+- [Graph theory](https://en.wikipedia.org/wiki/Graph_theory) involves **connections** which captures local structure and information flow of data in a newtwork. See [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/).
 
+- [Graph Neural Networks](https://distill.pub/2021/gnn-intro/) **enrich** graph networks with machine learning. See  [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) by M. Bronstein.
 
-[Graph Neural Networks](https://distill.pub/2021/gnn-intro/) **enrich** graph networks with machine learning. See  [Graph Neural Networks through the lens of Differential Geometry and Algebraic Topology](https://towardsdatascience.com/graph-neural-networks-through-the-lens-of-differential-geometry-and-algebraic-topology-3a7c3c22d5f) by M. Bronstein.
+- [Category theory](https://math.ucr.edu/home/baez/qg-winter2016/CategoryTheoryNotes.pdf) is used to describe **construction** of topologies, see [John Baez](https://math.ucr.edu/home/baez/categories.html).
 
+- [Topology](https://en.wikipedia.org/wiki/Topology) involves **shapes** and captures large, global emergent properties of data. See the work of [Tai Denae Bradley, et. al.](https://www.math3ma.com/research).
 
-[Category theory](https://math.ucr.edu/home/baez/qg-winter2016/CategoryTheoryNotes.pdf) is used to describe **construction** of topologies, see [John Baez](https://math.ucr.edu/home/baez/categories.html).
-
-[Topology](https://en.wikipedia.org/wiki/Topology) involves **shapes** and captures large, global emergent properties of data. See the work of [Tai Denae Bradley, et. al.](https://www.math3ma.com/research).
-
-[Homology](https://en.wikipedia.org/wiki/Homology_(mathematics)) **translates** between graph theory and topology, see the work of [Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html) 
+- [Homology](https://en.wikipedia.org/wiki/Homology_(mathematics)) **translates** between graph theory and topology, see the work of [Robert Ghrist](https://www2.math.upenn.edu/~ghrist/notes.html) 
 and [Norman Wildberger](https://www.youtube.com/watch?v=ShWdSNJeuOg).
 
-[Algebraic topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) uses abstract algebra (study of group transformations) to **classify spaces**, see [Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX).
-
+- [Algebraic topology](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf) uses abstract algebra (study of group transformations) to **classify spaces**, see [Richard Borcherds](https://www.youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX).
 
 ## Videos
 
