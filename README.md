@@ -1,5 +1,9 @@
 # Geometric and Topological Data Science
 
+## Current
+
+See my notes on [Linux, Devops, Graph Theory and the Laplacian](https://nodeholder.com/whiteboards/ds-notes-2022.svg).
+
 [Knowledge graphs](https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef) are directed heterogeneous multigraphs  whose node and relation types have domain-specific semantics. See [Vinay Chaudhri](https://www.knowledgegraph.tech/speakers/vinay-chaudhri/).
  
 [Graph theory](https://en.wikipedia.org/wiki/Graph_theory) involves **connections** which captures local structure and information flow of data in a newtwork. See [Michael Bronstein](https://scholar.google.com/citations?user=UU3N6-UAAAAJ&hl=en), [Joan Bruna](https://cims.nyu.edu/~bruna/), [Taco Choen](https://tacocohen.wordpress.com/) and [Petar Veličković](https://petar-v.com/)'s proto-book [Geometric Deep Learning](https://geometricdeeplearning.com/).
