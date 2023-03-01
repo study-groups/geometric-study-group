@@ -1,7 +1,5 @@
 # Geometric and Topological Data Science
 
-## Current
-
 See my notes on [Linux, Devops, Graph Theory and the Laplacian](https://nodeholder.com/whiteboards/ds-notes-2022.svg).
 
 [Knowledge graphs](https://towardsdatascience.com/introduction-to-knowledge-graph-embedding-with-dgl-ke-77ace6fb60ef) are directed heterogeneous multigraphs  whose node and relation types have domain-specific semantics. See [Vinay Chaudhri](https://www.knowledgegraph.tech/speakers/vinay-chaudhri/).
